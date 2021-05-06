@@ -2,6 +2,10 @@
 
 ## Web Server for Chrome
 
+## 设置面板功能详解：
+https://www.v2fy.com/p/049_web_server_for_chrome/
+
+
 an HTTP web server for Chrome (chrome.sockets)
 
 Get it in the chrome web store:
@@ -130,3 +134,6 @@ which handles the nonblocking read/write events for you.
 
 
 See CREDITS file
+
+
+
