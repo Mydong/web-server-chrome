@@ -5,7 +5,7 @@
 ## 设置面板功能详解：
 https://www.v2fy.com/p/049_web_server_for_chrome/
 
-!(https://www.v2fy.com/asset/049_web_server_for_chrome/75aa6525ba6a63a94fc6b42bb7d03298.png)
+![使用说明1](https://www.v2fy.com/asset/049_web_server_for_chrome/75aa6525ba6a63a94fc6b42bb7d03298.png)
 
 
 an HTTP web server for Chrome (chrome.sockets)
