@@ -1,9 +1,11 @@
-<a target="_blank" href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb">[Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install this sample from the Chrome Web Store")</a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb">[Try it now in CWS]</a>
 
 ## Web Server for Chrome
 
 ## 设置面板功能详解：
 https://www.v2fy.com/p/049_web_server_for_chrome/
+
+!(https://www.v2fy.com/asset/049_web_server_for_chrome/75aa6525ba6a63a94fc6b42bb7d03298.png)
 
 
 an HTTP web server for Chrome (chrome.sockets)
